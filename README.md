@@ -1,2 +1,2 @@
-# devops_udacity
+# Udacity Projects Repository
 Udacity Projects
